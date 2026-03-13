@@ -13,6 +13,7 @@ func main() {
 	}
 
 	total := n * (n + 1) / 2
+	
 
 	fmt.Println(total - sum)
 
